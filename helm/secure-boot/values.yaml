@@ -1,0 +1,17 @@
+image:
+  repository: secure-boot
+  tag: latest
+
+service:
+  port: 80
+
+
+
+
+
+
+
+
+
+
+
