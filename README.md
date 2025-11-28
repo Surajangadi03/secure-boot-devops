@@ -3,11 +3,11 @@ This project shows how to deploy a FastAPI application using Docker, Kubernetes,
 
 Tech Stack
 
-FastAPI (Python)
-Docker
-Kubernetes (Minikube)
-Helm
-Terraform
+FastAPI (Python),
+Docker,
+Kubernetes (Minikube),
+Helm,
+Terraform,
 Bash Script
 
 Project Structure
